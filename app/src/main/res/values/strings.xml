@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">simrs</string>
+    <string name="title_activity_splash_screen">SIMRS</string>
+    <string name="title_activity_left_menu">LeftMenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="demo_card_text">Demo</string>
+    <string name="name">Name</string>
+    <string name="date">Date</string>
+    <string name="img_describ">Photo Profile</string>
+    <string name="antrian">Antrian Saat Ini :</string>
+    <string name="periksa">Total Pemeriksaan</string>
+    <string name="shortcut">Shortcut</string>
+    <string name="total">Total Pemeriksaan</string>
+    <string name="date_checkup">20/11/1997 11:59:59</string>
+    <string name="price_checkup">Rp. 200.000</string>
+
+</resources>

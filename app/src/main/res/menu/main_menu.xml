@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Dashboard"
+        android:id="@+id/item_dashboard"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="Edit Profile"
+        android:id="@+id/item_profile"
+        app:showAsAction="never"/>
+    <item
+        android:icon="@drawable/ic_list_black_24dp"
+        android:title="Data Checkup"
+        android:id="@+id/item_checkup"
+        app:showAsAction="never"/>
+    <item
+        android:title="Logout"
+        android:id="@+id/item_logout"
+        app:showAsAction="never"/>
+</menu>
